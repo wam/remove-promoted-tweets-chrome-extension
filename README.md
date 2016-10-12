@@ -20,7 +20,7 @@ bit simpler.
 
 Currently only installable as an unpacked extension.
 
-Download the source, Open `chrome://extensions`, enable "Developer Mode",
+Download the source, open `chrome://extensions`, enable "Developer Mode",
 click "Load Unpacked Extension", and select the source directory.
 
 ## License
