@@ -10,6 +10,12 @@ The code is meant to be very simple and transparent, to make clear that it's
 not doing anything that it's not supposed to do. Improvements and bug reports
 are welcome via github issues and pull requests.
 
+## Why Another "Promoted Tweets" Blocker?
+
+Partly as a personal exercise in writing a small Chrome extension, but also
+because many of the others rely on jQuery or setTimeout, and this seems a
+bit simpler.
+
 ## Installation
 
 Currently only installable as an unpacked extension.
